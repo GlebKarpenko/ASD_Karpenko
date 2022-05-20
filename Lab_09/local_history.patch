@@ -1,0 +1,17 @@
+Index: src/Lab_09.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lab_09.java b/src/Lab_09.java
+--- a/src/Lab_09.java	
++++ b/src/Lab_09.java	(date 1652295979648)
+@@ -35,7 +35,7 @@
+         }
+ 
+         if (swapCount == 0){
+-            return null;
++            return arr;
+         }
+         return arr;
+     }
